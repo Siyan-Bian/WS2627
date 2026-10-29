@@ -116,7 +116,7 @@
 | die Erdrotationsachse                             | 地球自转轴         | 地球自转所围绕的轴线，是建立地固坐标系的方向参照。                         | 复数：Erdrotationsachsen                                    |
 | die Zentrifugalkraft                              | 离心力           | 在随地球旋转的参照系中，与地球重力和扁平形状有关的惯性力。                     | 复数：Zentrifugalkräfte                                     |
 | das Geoid                                         | 大地水准面         | 与理想化平均海面相接近、并延伸到大陆下方的重力等位面。                       | 复数：Geoide                                                |
-| die Äquipotenzialfläche                           | 等位面           | 重力位处处相同的曲面，铅垂方向在各点与其垂直。                           | 复数：Äquipotenzialflächen                                  |
+| die Äquipotenzialfläche                           | 等势面           | 重力位处处相同的曲面，铅垂方向在各点与其垂直。                           | 复数：Äquipotenzialflächen                                  |
 | die Niveaufläche                                  | 水准面           | 重力场中的等位面；大地水准面是其中一个特定水准面。                         | 复数：Niveauflächen                                         |
 | das Erdschwerefeld                                | 地球重力场         | 描述地球附近重力大小与方向空间变化的场。                              | 复数：Erdschwerefelder                                      |
 | das Schwerepotenzial                              | 重力位           | 表征重力场的势函数，其差值是定义物理高程的重要依据。                        | 复数：Schwerepotenziale；符号：W                                |
