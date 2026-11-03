@@ -244,3 +244,100 @@
 | ellipsoidisch                                     | 椭球的           | 与参考椭球有关，如椭球坐标和椭球高。                                | 形容词                                                      |
 | lotrecht                                          | 铅垂的           | 沿当地重力方向，不能直接等同于椭球法线方向。                            | 形容词                                                      |
 | horizontal                                        | 水平的           | 在当地与铅垂方向垂直。                                       | 形容词                                                      |
+
+# 地图投影与变形
+
+| 单词 | 中文 | 解释 | 词形与用法 |
+| --- | --- | --- | --- |
+| der Kartennetzentwurf | 地图投影 | 把地球数学表面上的经纬网和点按一定规则映射到平面的方法。 | 复数：Kartennetzentwürfe |
+| die Kartenabbildung | 地图映射 | 从地球参照表面到地图平面的数学对应关系，与 Kartennetzentwurf 近义。 | 复数：Kartenabbildungen |
+| die Kartenprojektion | 地图投影 | 建立曲面与地图平面之间位置对应关系的方法，不一定来自实际光线投射。 | 复数：Kartenprojektionen |
+| die mathematische Kartographie | 数学制图学 | 研究地图投影、坐标关系和投影变形的制图学领域。 | 通常无复数 |
+| das Urbild | 原像 | 投影前位于球面或椭球面上的点、线和图形。 | 复数：Urbilder |
+| das Abbild | 映像 | 原像经映射后在地图平面上的对应图形。 | 复数：Abbilder |
+| die Netzlinie | 网格线 | 构成坐标网的线，在本章主要指经线和纬线。 | 复数：Netzlinien |
+| die Projektionswahl | 投影选择 | 根据地图用途、区域位置、范围及允许的变形选择投影。 | 通常无复数 |
+| der Kartenausschnitt | 地图表示范围 | 一幅地图选取并表示的区域，影响投影的选择。 | 复数：Kartenausschnitte |
+| die Zielgruppe | 目标读者 | 地图预期服务的人群，其需求会影响投影与表达方式。 | 复数：Zielgruppen |
+| die geodätische Abbildung | 大地测量投影 | 将椭球面位置转换为平面坐标的映射，服务于区域测量和大比例尺制图。 | 复数：geodätische Abbildungen |
+| die Abbildungsfläche | 投影面 | 承接映射的平面或可展曲面，如平面、圆柱面和圆锥面。 | 复数：Abbildungsflächen |
+| die Abbildungsebene | 投影平面 | 投影结果最终表达在其上的平面。 | 复数：Abbildungsebenen |
+| das Projektionszentrum | 投影中心 | 透视投影中投射线的出发点，可位于地心、球面或无穷远。 | 复数：Projektionszentren |
+| die Abbildungsvorschrift | 映射规则 | 规定原位置如何转换为地图平面位置的数学或几何规则。 | 复数：Abbildungsvorschriften |
+| die Abbildungsgleichung | 投影方程 | 用数学公式将原表面坐标换算为地图平面坐标。 | 复数：Abbildungsgleichungen |
+| die echte Abbildung | 真投影 | 本讲按经纬网结构分类：正轴状态下，经线呈共点直线，纬线呈同心圆弧或其极限形式。 | 复数：echte Abbildungen |
+| die unechte Abbildung | 非真投影 | 本讲中不满足真投影全部经纬网结构条件的映射，可采用组合或其他构造。 | 复数：unechte Abbildungen |
+| die Netzsymmetrie | 网格对称性 | 投影经纬网围绕指定轴线或中心的对称关系。 | 通常无复数 |
+| die Rechtwinkligkeit | 正交性 | 两组线以直角相交的性质；本讲用于区分经纬网结构。 | 通常无复数 |
+| normal | 正轴的 | 投影轴与地球自转轴一致，或方位投影的中心位于极点。 | 形容词；本章指投影面方位 |
+| transversal | 横轴的 | 投影轴与地球自转轴垂直，或方位投影的中心位于赤道。 | 形容词 |
+| schiefachsig | 斜轴的 | 投影轴相对地球自转轴倾斜，区别于正轴和横轴。 | 形容词 |
+| polständig | 极地中心的 | 以极点为投影中心位置，如正轴方位投影。 | 形容词 |
+| die Längentreue | 等距性 | 沿规定线或方向保持距离比例，不意味着地图上任意距离都无变形。 | 通常无复数 |
+| die Äquidistanz | 等距性 | 表示规定距离保持不变的投影性质，与 Längentreue 近义。 | 通常无复数 |
+| die Flächentreue | 等积性 | 地图上各区域面积与原面积保持统一比例，不要求形状相同。 | 通常无复数 |
+| die Äquivalenz | 等积性 | 本章中指面积保持的投影性质，与 Flächentreue 同义。 | 通常无复数 |
+| die Winkeltreue | 保角性 | 保持局部角度关系，不能保证长度和面积不变。 | 通常无复数 |
+| die Konformität | 保角性 | 地图投影中的角度保持性质，与 Winkeltreue 同义。 | 通常无复数 |
+| flächentreu | 等积的 | 保持区域面积的相对比例；变形椭圆面积相同。 | 形容词 |
+| mittabstandstreu | 中心等距的 | 在方位投影语境中，从投影中心到各点的距离按统一比例表达。 | 形容词 |
+| kongruent | 全等的 | 形状和大小均相同；地球曲面不能在整个地图平面上实现无变形全等映射。 | 形容词 |
+| die vermittelnde Abbildung | 折衷投影 | 通过平衡不同变形取得整体效果，不严格满足全图等积或保角等性质。 | 复数：vermittelnde Abbildungen |
+| die Tissot’sche Indikatrix | Tissot 变形指示椭圆 | 用地面上的微小圆经投影后的椭圆表示局部长度、角度和面积变形。 | 复数：Tissot’sche Indikatrizen |
+| die Verzerrungsellipse | 变形椭圆 | 微小圆投影后形成的局部椭圆，用其半轴研究最大和最小长度变形。 | 复数：Verzerrungsellipsen |
+| die Ellipse | 椭圆 | 由长短半轴描述的平面曲线，是分析局部投影变形的图形。 | 复数：Ellipsen |
+| der Urbildkreis | 原像圆 | 投影前位于参照表面上的微小圆，用于与投影后的椭圆比较。 | 复数：Urbildkreise |
+| die Hauptverzerrungsrichtung | 主变形方向 | 局部长度变形最大或最小的方向，对应变形椭圆的两个主轴方向。 | 复数：Hauptverzerrungsrichtungen |
+| die Längenverzerrung | 长度变形 | 投影长度与原长度的局部比值，可随位置和方向变化。 | 复数：Längenverzerrungen；本讲记作 ρ = s′/s |
+| die Richtungsverzerrung | 方向变形 | 投影前后方向关系发生的改变，本讲以 ω 表示相关角度变形。 | 复数：Richtungsverzerrungen；符号：ω |
+| die partielle Längentreue | 局部等距性 | 只在某些线或方向上保持长度比例；本讲以 a = 1 或 b = 1 说明。 | 通常无复数 |
+| die konische Abbildung | 圆锥投影 | 以圆锥面为辅助面的投影类型，正轴时经线呈放射直线、纬线呈同心圆弧。 | 复数：konische Abbildungen |
+| der Berührungskegel | 切圆锥 | 与参照表面沿一条纬线相切的辅助圆锥。 | 复数：Berührungskegel |
+| der Schnittkegel | 割圆锥 | 与参照表面沿两条纬线相交的辅助圆锥。 | 复数：Schnittkegel |
+| der Kegelmantel | 圆锥侧面 | 可展开为平面的圆锥曲面，用于说明圆锥投影。 | 复数：Kegelmäntel |
+| der Berührungsbreitenkreis | 相切纬线 | 辅助面与参照表面相切的纬线，在相应标准构造中可保持长度。 | 复数：Berührungsbreitenkreise |
+| das Geradenbüschel | 直线束 | 通过同一点的一组直线，如正轴圆锥投影中的经线。 | 复数：Geradenbüschel |
+| das Kreisbogensegment | 圆弧段 | 圆周的一部分，正轴圆锥投影中纬线表现为同心圆弧。 | 复数：Kreisbogensegmente |
+| die Divergenz | 发散 | 线条彼此分开的程度，本讲用于描述圆锥投影中经线的张开。 | 复数：Divergenzen |
+| die flächentreue Kegelprojektion | 等积圆锥投影 | 保持面积比例的圆锥投影类型，讲义以 Lambert 的构造为例。 | 复数：flächentreue Kegelprojektionen |
+| die abstandstreue Kegelprojektion | 等距圆锥投影 | 沿规定线或方向保持距离比例的圆锥投影，不能理解为任意两点间距离都准确。 | 复数：abstandstreue Kegelprojektionen |
+| die winkeltreue Kegelprojektion | 保角圆锥投影 | 保持局部角度的圆锥投影类型，讲义以 Lambert 投影为例。 | 复数：winkeltreue Kegelprojektionen |
+| die polykonische Abbildung | 多圆锥投影 | 采用多个圆锥或分带圆锥构造；本讲以不同图幅行使用不同圆锥为例。 | 复数：polykonische Abbildungen |
+| die zylindrische Abbildung | 圆柱投影 | 以圆柱面为辅助面的投影类型，正轴时经纬线通常构成正交直线网。 | 复数：zylindrische Abbildungen |
+| der Zylindermantel | 圆柱侧面 | 展开后形成平面的圆柱曲面，用于说明圆柱投影。 | 复数：Zylindermäntel |
+| die Abwicklung | 展开 | 把圆柱面或圆锥面展成平面；不代表从地球曲面到该辅助面的映射没有变形。 | 复数：Abwicklungen |
+| die quadratische Plattkarte | 方格等距圆柱地图 | 正轴等距圆柱投影的一种，经纬网呈等间隔方格；并非处处等距。 | 复数：quadratische Plattkarten |
+| die flächentreue Zylinderprojektion | 等积圆柱投影 | 保持面积比例的圆柱投影类型，讲义以 Lambert 的构造为例。 | 复数：flächentreue Zylinderprojektionen |
+| die Orthodrome | 大圆航线 | 球面上沿大圆劣弧连接两点的最短路线，一般不保持恒定航向。 | 复数：Orthodromen |
+| die Loxodrome | 恒向线 | 与各经线保持相同夹角的曲线，通常不是球面最短路线。 | 复数：Loxodromen |
+| die Kurslinie | 航向线 | 本章用于指恒定航向的航线，与 Loxodrome 对应。 | 复数：Kurslinien；英语：rhumb line |
+| die Kursgleiche | 等航向线 | 恒向线的另一种德语名称，强调航向角不变。 | 复数：Kursgleichen |
+| die Winkelgleiche | 等角航线 | 恒向线的另一种名称，强调与经线相交的角度相同。 | 复数：Winkelgleichen |
+| der Azimut | 方位角 | 相对于北向等参考方向量得的水平角，本讲用于描述航线与经线的夹角。 | 复数：Azimute |
+| die Geodäte | 测地线 | 曲面上局部最短路径的曲线；球面上的测地线位于大圆上。 | 复数：Geodäten；英语：geodesic |
+| die Navigation | 导航 | 确定位置与规划行进方向的活动，是墨卡托投影的重要应用。 | 通常无复数 |
+| die azimutale Abbildung | 方位投影 | 以平面为辅助面的投影类型，正轴时经线呈放射线、纬线呈同心圆。 | 复数：azimutale Abbildungen |
+| die Tangentialebene | 切平面 | 与参照表面在某点相切的平面，是方位投影的一种辅助面。 | 复数：Tangentialebenen |
+| die Schnittebene | 割平面 | 与参照表面相交的平面，区别于只在一点相切的切平面。 | 复数：Schnittebenen |
+| der Berührungspunkt | 切点 | 辅助平面与参照表面相切的位置。 | 复数：Berührungspunkte |
+| die gnomonische Abbildung | 球心投影 | 投影中心位于球心的方位透视投影，大圆航线表现为直线。 | 复数：gnomonische Abbildungen |
+| die stereographische Abbildung | 球极投影 | 投影中心位于切点对面的球面点，具有保角性。 | 复数：stereographische Abbildungen |
+| die orthographische Abbildung | 正射方位投影 | 投射线平行的方位投影，可视作投影中心位于无穷远。 | 复数：orthographische Abbildungen |
+| die Zentralprojektion | 中心投影 | 所有投射线经过同一有限投影中心的投影方式。 | 复数：Zentralprojektionen |
+| die Parallelprojektion | 平行投影 | 各投射线彼此平行的投影方式，正射方位投影属于此类。 | 复数：Parallelprojektionen |
+| der Gegenpunkt | 对跖点 | 球面上与某点位于同一直径两端的另一点，用于确定球极投影中心。 | 复数：Gegenpunkte |
+| die flächentreue Azimutalprojektion | 等积方位投影 | 保持面积比例的方位投影类型，讲义以 Lambert 投影为例。 | 复数：flächentreue Azimutalprojektionen |
+| die abstandstreue Azimutalprojektion | 等距方位投影 | 从投影中心到各点的距离按统一比例表达，但其他点对间的距离一般有变形。 | 复数：abstandstreue Azimutalprojektionen |
+| die Planisphäre | 平面世界图 | 把球面上的广大区域或整个世界表示在平面上的图。 | 复数：Planisphären |
+| der Planiglobus | 半球平面图 | 将地球的一个半球表示在平面上的地图。 | 复数：Planigloben |
+| die Mischkarte | 混合投影地图 | 结合不同投影的构造或坐标关系形成的地图。 | 复数：Mischkarten |
+| die kartographische Anamorphose | 地图变形图 | 按人口等主题量改变地区大小或形状，以表达数据关系。 | 复数：kartographische Anamorphosen |
+| das Kartogramm | 统计变形地图 | 本讲与地图变形图并列，表示按主题数值调整区域面积的图。 | 复数：Kartogramme |
+| der Winkel-Entwurf | 温克尔投影 | 结合不同投影构造以平衡变形，讲义示例结合圆柱映射与 Aitoff 映射。 | 复数：Winkel-Entwürfe |
+| der Mollweide-Entwurf | 摩尔威德投影 | 等积世界地图投影，正轴时纬线为平行直线，经线多呈椭圆弧。 | 复数：Mollweide-Entwürfe |
+| der Robinson-Entwurf | 罗宾逊投影 | 以平衡世界地图整体视觉效果为目标的折衷投影。 | 复数：Robinson-Entwürfe |
+| der Hammer-Entwurf | 哈默投影 | 以椭圆外形表示世界的等积投影，是讲义中其他投影修改的基础之一。 | 复数：Hammer-Entwürfe |
+| der Wagner-Entwurf | 瓦格纳投影 | 讲义展示的世界地图投影构造，对 Hammer 等投影作修改以调整网形。 | 复数：Wagner-Entwürfe |
+| konzentrisch | 同心的 | 多个圆或圆弧具有同一中心，常用于描述纬线的图形结构。 | 形容词 |
+| rechtwinklig | 直角的或正交的 | 以 90° 相交，本讲用于描述经纬网的相交关系。 | 形容词 |
+| gekrümmt | 弯曲的 | 线条呈曲线状，与投影平面上的直线相对。 | 形容词 |
