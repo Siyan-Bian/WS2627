@@ -236,3 +236,137 @@
 | speichern | 储存 | 把能量保留在系统状态中，如运动、水库高度或发条形变。 | 动词；speichert – speicherte – hat gespeichert |
 | umwandeln | 转化 | 使能量由一种形式变为另一种形式，如势能转化为动能。 | 可分动词；wandelt um – wandelte um – hat umgewandelt |
 | abschätzen | 估算 | 根据数据、模型或数量级给出近似结果。 | 可分动词；schätzt ab – schätzte ab – hat abgeschätzt |
+
+# 热量传递与地球辐射
+
+| 单词 | 中文 | 解释 | 词形与用法 |
+| --- | --- | --- | --- |
+| die Thermodynamik | 热力学 | 研究热、功、温度及能量转化关系的理论体系。 | 通常无复数 |
+| die Wärme | 热量 | 因温差而在系统之间传递的能量，是过程量，不是物体所储存的状态量。 | 物理义通常无复数；符号：Q；单位：J |
+| die Zustandsgröße | 状态量 | 由系统当前状态确定的物理量，如温度和内能。 | 复数：Zustandsgrößen |
+| die Prozessgröße | 过程量 | 描述状态变化过程中能量传递的量，如热量和功。 | 复数：Prozessgrößen |
+| die Energieübertragung | 能量传递 | 能量在物体或系统之间转移的过程。 | 复数：Energieübertragungen |
+| die thermometrische Eigenschaft | 测温属性 | 随温度发生可测变化、因而可用于测温的物质属性。 | 复数：thermometrische Eigenschaften |
+| die Wärmeausdehnung | 热膨胀 | 物体温度变化时长度或体积发生改变的现象。 | 复数：Wärmeausdehnungen |
+| das Thermometer | 温度计 | 利用某种随温度变化的物理属性测量温度的仪器。 | 复数：Thermometer |
+| das Volumen | 体积 | 物体或物质所占的空间大小，气体受热时可能发生变化。 | 复数：Volumina；符号：V；单位：m³ |
+| der Druck | 压力 | 单位面积上的法向力；研究气体热过程时需明确是否保持恒定。 | 复数：Drücke；符号：p；单位：Pa |
+| der elektrische Widerstand | 电阻 | 导体阻碍电流通过的性质，某些材料的电阻随温度变化。 | 复数：elektrische Widerstände；单位：Ω |
+| der Wärmestrom | 热流率 | 单位时间内传递的热量，须与单位面积上的热通量区分。 | 复数：Wärmeströme；公式：ΔQ/Δt；单位：W |
+| das thermische Gleichgewicht | 热平衡 | 接触的系统温度相同，不再因温差产生净热传递的状态。 | 通常单数 |
+| der nullte Hauptsatz der Thermodynamik | 热力学第零定律 | 两个系统若分别与第三个系统处于热平衡，彼此也处于热平衡。 | 固定术语 |
+| der erste Hauptsatz der Thermodynamik | 热力学第一定律 | 内能变化等于传入的热量与外界对系统做功之和。 | 固定术语；按本讲符号约定：ΔU = Q + W |
+| das mechanische Wärmeäquivalent | 热功当量 | 表示机械功与相应热量之间的定量换算关系。 | 复数：mechanische Wärmeäquivalente |
+| die Kalorie | 卡路里 | 热量和能量的一种非国际单位制单位，具体数值与采用的定义有关。 | 复数：Kalorien；符号：cal |
+| die Kilokalorie | 千卡 | 等于 1 000 cal 的能量单位，讲义用它比较食物能量与机械功。 | 复数：Kilokalorien；符号：kcal |
+| die Effizienz | 效率 | 输入能量中转化为目标形式或有效输出的比例。 | 通常无复数 |
+| die innere Energie | 内能 | 系统内部微观粒子的运动能及相互作用势能等的总和，是状态量。 | 通常无复数；符号：U；单位：J |
+| die Energiezufuhr | 能量输入 | 从外部向系统提供能量，可通过热传递或做功等方式实现。 | 通常单数 |
+| das ideale Gas | 理想气体 | 忽略粒子体积及粒子间相互作用等因素的气体模型。 | 复数：ideale Gase |
+| das Gasteilchen | 气体粒子 | 构成气体的微观粒子，其平均平动动能与绝对温度有关。 | 复数：Gasteilchen |
+| die Temperaturdifferenz | 温差 | 两个温度之差，是热传递的重要驱动因素。 | 复数：Temperaturdifferenzen；符号：ΔT；单位：K |
+| die Temperaturänderung | 温度变化 | 同一系统在两个状态之间的温度之差。 | 复数：Temperaturänderungen |
+| die spezifische Wärmekapazität | 比热容 | 使单位质量物质升温 1 K 所需的热量，需注明过程条件和物态。 | 复数：spezifische Wärmekapazitäten；符号：c；单位：J/(kg·K) |
+| die Wärmekapazität | 热容 | 使整个物体升温 1 K 所需的热量；与单位质量的比热容不同。 | 复数：Wärmekapazitäten；符号：C；公式：C = mc；单位：J/K |
+| die Stoffeigenschaft | 物质属性 | 材料本身在规定条件下具有的特征，如比热容和导热系数。 | 复数：Stoffeigenschaften |
+| die Flüssigkeit | 液体 | 具有流动性、体积相对稳定的物态，比热容可能随温度变化。 | 复数：Flüssigkeiten |
+| das Gas | 气体 | 可膨胀并充满容器的物态，其热容与过程条件有关。 | 复数：Gase |
+| das Molekül | 分子 | 组成物质的微观粒子，其运动及相互作用参与内能和热传递。 | 复数：Moleküle |
+| das Atom | 原子 | 构成物质的微观单元之一，热运动参与物体的能量状态。 | 复数：Atome |
+| die Teilchenbewegung | 粒子运动 | 物质微观粒子的运动，帮助解释温度与内能的关系。 | 复数：Teilchenbewegungen |
+| die Wärmemenge | 热量 | 在某个传热过程中传递的能量；无相变且 c 近似恒定时 Q = mcΔT。 | 复数：Wärmemengen；符号：Q；单位：J |
+| der Aggregatszustand | 物态 | 物质的固态、液态或气态等状态，改变物态会影响热学性质。 | 复数：Aggregatszustände |
+| der absolute Nullpunkt | 绝对零度 | 热力学温标的零点，对应 0 K，即 −273.15 °C。 | 通常单数 |
+| die Zwangsbedingung | 约束条件 | 对热力学过程施加的条件，如保持压力或体积不变。 | 复数：Zwangsbedingungen |
+| isobar | 等压的 | 过程进行时压力保持不变。 | 形容词 |
+| isochor | 等容的 | 过程进行时体积保持不变。 | 形容词 |
+| die isobare Wärmekapazität | 定压热容 | 在压力保持恒定的条件下定义的热容，气体受热时可同时对外做膨胀功。 | 符号：Cp；单位：J/K；比热容为 cp，单位：J/(kg·K) |
+| die isochore Wärmekapazität | 定容热容 | 在体积保持恒定的条件下定义的热容，不发生体积变化功。 | 符号：Cv；单位：J/K；比热容为 cv，单位：J/(kg·K) |
+| die Volumenarbeit | 体积功 | 系统体积变化时克服外界压力所做的功。 | 物理义通常无复数 |
+| die Feuchte | 湿度或水分含量 | 本讲关注空气中的水分对热学性质和地球系统过程的影响。 | 通常无复数 |
+| die Wärmezufuhr | 热量输入 | 通过温差传递进入系统的能量。 | 通常单数 |
+| die Wärmeabgabe | 放热 | 系统把能量以热的形式传给周围环境的过程。 | 通常单数 |
+| die Kühlung | 冷却 | 通过移走能量等方式降低或控制物体温度。 | 复数：Kühlungen |
+| die Wasserkühlung | 水冷却 | 利用水较大的比热容吸收和带走能量。 | 复数：Wasserkühlungen |
+| die Ausgleichstemperatur | 平衡温度 | 相互交换热量的物体最终达到的共同温度。 | 复数：Ausgleichstemperaturen |
+| die Gleichgewichtstemperatur | 平衡温度 | 系统达到热平衡时的温度，与本讲中的 Ausgleichstemperatur 近义。 | 复数：Gleichgewichtstemperaturen |
+| die Richmann’sche Mischungsregel | 里希曼混合定则 | 在无相变、无外界热损失等条件下，根据热量收支计算共同温度。 | 复数：Richmann’sche Mischungsregeln |
+| die Dichte | 密度 | 单位体积的质量，受热膨胀时可能下降并引发空气运动。 | 复数：Dichten；公式：ρ = m/V；单位：kg/m³ |
+| das Vakuum | 真空 | 物质极少的空间，可抑制传导和对流，但仍允许电磁辐射传播。 | 复数：Vakua |
+| die Wärmeleitung | 热传导 | 通过微观相互作用传递能量，无需物质整体从暖处流到冷处。 | 通常无复数；英语：conduction |
+| die Wärmeübertragung | 热传递 | 热量通过传导、对流或辐射从一处传到另一处的过程。 | 复数：Wärmeübertragungen |
+| die Wärmeleitfähigkeit | 导热系数 | 描述材料传导热量能力的属性，数值越大通常表示越容易导热。 | 复数：Wärmeleitfähigkeiten；符号：λ；单位：W/(m·K) |
+| der Querschnitt | 横截面 | 垂直于研究方向的截面；导热计算关注热流通过的面积。 | 复数：Querschnitte |
+| die Kollision | 碰撞 | 微观粒子相互作用的形式之一，用于说明热传导中的能量交换。 | 复数：Kollisionen |
+| der Wärmeleiter | 导热体 | 能较有效传递热量的材料，如金属。 | 复数：Wärmeleiter |
+| der Isolator | 隔热体 | 不易传导热量的材料，与良好导热体相对。 | 复数：Isolatoren |
+| die Wärmeisolation | 隔热 | 减少物体与环境之间的热传递，如利用不流动的空气层。 | 通常无复数 |
+| die Luftschicht | 空气层 | 处于物体之间或表面附近的空气层，其流动状态会影响隔热效果。 | 复数：Luftschichten |
+| der Wärmeverlust | 热损失 | 系统向外传出热量而造成的能量减少。 | 复数：Wärmeverluste |
+| das Temperaturgefälle | 温度梯度 | 温度随空间位置的变化程度，影响热传递方向和速率。 | 复数：Temperaturgefälle |
+| der Wärmetransport | 热输送 | 能量以热的形式在不同位置之间传递的过程。 | 复数：Wärmetransporte |
+| die Konvektion | 对流 | 流体整体运动将其携带的能量传到其他位置，伴随物质移动。 | 通常无复数；英语：convection |
+| die Dichteströmung | 密度流 | 由流体密度差异驱动的运动，暖空气上升是本讲的例子。 | 复数：Dichteströmungen |
+| die Konvektionsströmung | 对流运动 | 因加热、冷却等形成的流体循环，可有效输送能量。 | 复数：Konvektionsströmungen |
+| die Land-Seewind-Zirkulation | 海陆风环流 | 陆地与海洋昼夜受热差异形成的局地循环。 | 复数：Land-Seewind-Zirkulationen |
+| der Seewind | 海风 | 通常白天近地面从较冷海面吹向较暖陆地的风。 | 复数：Seewinde |
+| der Landwind | 陆风 | 通常夜间近地面从较冷陆地吹向较暖海面的风。 | 复数：Landwinde |
+| der Ausgleichsstrom | 补偿气流 | 与近地面气流配合、帮助闭合局地环流的高空气流。 | 复数：Ausgleichsströme |
+| die Konvektionsbewölkung | 对流云 | 湿空气上升冷却、凝结形成的云，本讲以佛罗里达为例。 | 通常无复数 |
+| die Windgeschwindigkeit | 风速 | 空气流动的快慢，影响近地面的热交换。 | 复数：Windgeschwindigkeiten；单位：m/s |
+| die Wärmestrahlung | 热辐射 | 物体因温度而发出的电磁辐射，不需要物质介质就能传播。 | 通常无复数 |
+| das Medium | 介质 | 支持某些传递过程的物质载体；热传导和对流需要物质存在。 | 复数：Medien |
+| der Äther | 以太 | 历史上为解释光或辐射传播而假设的载体，本讲将其作为旧观念介绍。 | 历史概念，通常无复数 |
+| das Aphel | 远日点 | 天体绕太阳运动时距太阳最远的轨道位置。 | 复数：Aphele |
+| das Perihel | 近日点 | 天体绕太阳运动时距太阳最近的轨道位置。 | 复数：Perihele |
+| die Emissivität | 发射率 | 物体相对于同温度黑体的辐射发射能力，取值通常为 0 至 1。 | 通常无复数；符号：ε；无量纲 |
+| der Emissionsgrad | 发射率 | 描述实际物体发射辐射能力的系数，与 Emissivität 同义。 | 复数：Emissionsgrade；符号：ε |
+| das Stefan-Boltzmann-Gesetz | 斯忒藩玻尔兹曼定律 | 总辐射发射功率与绝对温度的四次方、发射率及面积成正比。 | 公式：P = εσAT⁴；T 使用 K |
+| die Stefan-Boltzmann-Konstante | 斯忒藩玻尔兹曼常数 | 连接温度四次方与黑体辐射功率的常数。 | 符号：σ；约 5.67 × 10⁻⁸ W/(m²·K⁴) |
+| die Naturkonstante | 自然常数 | 描述自然规律、具有固定数值的基本参数。 | 复数：Naturkonstanten |
+| das Kirchhoff’sche Strahlungsgesetz | 基尔霍夫辐射定律 | 热平衡时，对相同波长和方向，物体的发射率等于吸收率。 | 公式：ε(λ,T) = α(λ,T) |
+| die Absorption | 吸收 | 物体接收辐射并将辐射能转化为内部能量等的过程。 | 复数：Absorptionen |
+| das Absorptionsvermögen | 吸收能力 | 物体吸收入射辐射的程度，与材料和波长等有关。 | 通常无复数；吸收率符号：α |
+| die Emission | 发射 | 物体向外释放辐射能的过程。 | 复数：Emissionen |
+| das Emissionsvermögen | 发射能力 | 物体在给定温度和波长条件下发出辐射的能力。 | 通常无复数 |
+| der Schwarzkörper | 黑体 | 完全吸收所有入射电磁辐射的理想物体，发射率为 1。 | 复数：Schwarzkörper |
+| der schwarze Strahler | 黑体辐射体 | 黑体的另一种表达，是研究热辐射的理想模型。 | 复数：schwarze Strahler |
+| die elektromagnetische Welle | 电磁波 | 由相互关联的电场和磁场变化形成的波，可在真空中传播。 | 复数：elektromagnetische Wellen |
+| die elektrische Feldstärke | 电场强度 | 描述电场作用强弱与方向的物理量。 | 复数：elektrische Feldstärken；符号：E；单位：V/m |
+| die magnetische Feldstärke | 磁场强度 | 描述磁场的一种物理量，须与磁感应强度区分。 | 复数：magnetische Feldstärken；常用符号：H；单位：A/m |
+| die Leistungsflussdichte | 能流密度 | 单位面积上传递的功率，本讲用于描述电磁波的能量输送。 | 复数：Leistungsflussdichten；符号：S；单位：W/m² |
+| die Amplitude | 振幅 | 振动量相对于平衡值的最大偏离程度。 | 复数：Amplituden |
+| die Phase | 相位 | 表示周期变化在某一时刻处于周期中的位置；本节不是物态含义。 | 复数：Phasen |
+| die Wellenlänge | 波长 | 波在空间中相邻同相位位置之间的距离。 | 复数：Wellenlängen；符号：λ；单位：m |
+| die Frequenz | 频率 | 单位时间内完成的振动周期数，与波长满足 c = λf。 | 复数：Frequenzen；符号：f；单位：Hz |
+| die Lichtgeschwindigkeit | 光速 | 电磁波在真空中的传播速度，是连接波长与频率的常数。 | 通常无复数；符号：c；约 3 × 10⁸ m/s |
+| das elektromagnetische Spektrum | 电磁波谱 | 按频率或波长排列的全部电磁辐射范围。 | 复数：elektromagnetische Spektren |
+| die Gammastrahlung | 伽马辐射 | 电磁波谱中波长极短的高频辐射类型。 | 通常无复数 |
+| die Röntgenstrahlung | X 射线 | 波长通常短于紫外线的电磁辐射类型。 | 通常无复数 |
+| die Ultraviolettstrahlung | 紫外辐射 | 波长短于可见光紫色端的电磁辐射。 | 通常无复数；缩写：UV |
+| das sichtbare Licht | 可见光 | 人眼能够感知的电磁辐射波段。 | 通常无复数 |
+| die Infrarotstrahlung | 红外辐射 | 波长长于可见光红色端的辐射，地球热辐射主要位于红外波段。 | 通常无复数；缩写：IR |
+| das thermale Infrarot | 热红外 | 与地表等物体热发射密切相关的红外波段。 | 通常无复数 |
+| die Mikrowelle | 微波 | 电磁波谱中波长通常长于红外线、短于一般无线电波的波段。 | 复数：Mikrowellen |
+| die Radiowelle | 无线电波 | 电磁波谱中较长波长的辐射类型。 | 复数：Radiowellen |
+| die Strahlungsenergie | 辐射能 | 以电磁辐射形式传递的能量。 | 复数：Strahlungsenergien；单位：J |
+| die Strahlungsintensität | 辐射强度 | 本讲用于描述辐射随波长变化的强弱，读图时需同时看坐标和单位。 | 复数：Strahlungsintensitäten |
+| das Wien’sche Verschiebungsgesetz | 维恩位移定律 | 黑体辐射按波长表示时，峰值波长与绝对温度成反比。 | 公式：λmax·T ≈ 2.898 × 10⁻³ m·K |
+| das Strahlungsmaximum | 辐射峰值 | 光谱辐射最强的位置；温度越高，按波长表示的峰位越偏向短波。 | 复数：Strahlungsmaxima |
+| der Nanometer | 纳米 | 表示可见光等短波长时常用的长度单位。 | 复数：Nanometer；符号：nm；1 nm = 10⁻⁹ m |
+| der Mikrometer | 微米 | 表示红外波长时常用的长度单位。 | 复数：Mikrometer；符号：µm；1 µm = 10⁻⁶ m |
+| die Solarkonstante | 太阳常数 | 在平均日地距离处、大气外垂直于太阳光线的单位面积所接收的太阳辐射功率。 | 通常单数；单位：W/m² |
+| die extraterrestrische Strahlung | 大气外太阳辐射 | 到达大气顶、尚未受地球大气吸收和散射影响的太阳辐射。 | 通常无复数 |
+| die Bestrahlungsstärke | 辐照度 | 单位面积接收的辐射功率，区别于一段时间内累积接收的能量。 | 复数：Bestrahlungsstärken；单位：W/m² |
+| die Sonneneinstrahlung | 太阳入射辐射 | 由太阳到达所研究区域的辐射，是地球系统的重要能量输入。 | 通常无复数 |
+| die Reflexion | 反射 | 入射辐射在物体或界面上改变传播方向、返回外部的过程。 | 复数：Reflexionen |
+| die Albedo | 反照率 | 反射辐射与入射辐射之比，地球整体反照率约为 0.3。 | 通常单数；无量纲，可用百分数表示 |
+| die Leistungsdichte | 功率密度 | 本讲指单位面积上的辐射功率，用于比较不同表面的辐射收支。 | 复数：Leistungsdichten；本讲单位：W/m² |
+| der Nettoenergiestrom | 净能量流率 | 同时考虑两个方向的能量交换后得到的净传递速率。 | 复数：Nettoenergieströme；单位：W |
+| das Watt | 瓦特 | 功率单位，表示每秒传递或转化的能量。 | 单位名；符号：W；1 W = 1 J/s |
+| absorbieren | 吸收 | 接收入射辐射，并将其能量转化为其他形式。 | 动词；absorbiert – absorbierte – hat absorbiert |
+| emittieren | 发射 | 向外释放电磁辐射。 | 动词；emittiert – emittierte – hat emittiert |
+| reflektieren | 反射 | 使入射辐射改变方向并返回外部。 | 动词；reflektiert – reflektierte – hat reflektiert |
+| sich ausdehnen | 膨胀 | 物体的长度或体积增大，如空气受热膨胀。 | 可分反身动词；dehnt sich aus – dehnte sich aus – hat sich ausgedehnt |
+| erwärmen | 加热 | 向物体提供能量，使其温度升高。 | 动词；erwärmt – erwärmte – hat erwärmt |
+| abkühlen | 冷却 | 使物体温度降低，可由能量向外传递引起。 | 可分动词；kühlt ab – kühlte ab – hat abgekühlt |
