@@ -81,23 +81,14 @@
 | der Erkenntnisgewinn           | 认识的获得     | 研究使人们对现象或关系形成新的理解。                  | 复数：Erkenntnisgewinne                            |
 | der Erkenntnisfortschritt      | 认识进步      | 通过批评、检验和修正推进对问题的理解。                 | 复数：Erkenntnisfortschritte                       |
 | der Begriff                    | 概念        | 词语所表达的意义或认识内容，需要与词语本身和指涉现象区分。       | 复数：Begriffe                                     |
-| die Methode                    | 方法        | 为回答研究问题而采用的有规则、可说明的操作途径。            | 复数：Methoden                                     |
-| die Aussage                    | 陈述或命题     | 可以讨论其内容、依据和适用范围的表述。                 | 复数：Aussagen                                     |
-| die Gültigkeit                 | 有效性或适用性   | 陈述在何种条件和范围内成立，科学结论通常有边界。            | 通常无复数                                           |
 | die Widerspruchsfreiheit       | 无矛盾性      | 陈述之间逻辑上不互相冲突；这一点本身不保证经验上为真。         | 通常无复数                                           |
-| die Kritik                     | 批评或审查     | 质疑研究的前提、方法和结论，是讲义强调的认识进步动力。         | 此义通常无复数                                         |
-| die Logik                      | 逻辑        | 研究推理形式与有效关系，不能单独替代经验检验。             | 此义通常无复数                                         |
 | die Problemlösungsfähigkeit    | 问题解决能力    | 理论在理解和处理问题方面的能力，是讲义讨论的评价标准。         | 通常无复数                                           |
 | wissenschaftlich               | 科学的或学术的   | 符合相应研究标准，并能说明其依据、方法与适用范围。           | 形容词                                             |
 | widerspruchsfrei               | 无矛盾的      | 表述在逻辑上自洽，不等于事实判断必然正确。               | 形容词                                             |
 | widerlegbar                    | 可反驳的      | 能够设想证据或论证使某陈述被否定。                   | 形容词                                             |
 | beweisbar                      | 可证明的      | 能够在明确的前提、规则或证据标准下获得证明。              | 形容词                                             |
 | verfahrensorientiert           | 注重程序的     | 按照明确方法和操作步骤推进研究。                    | 形容词                                             |
-| nachvollziehbar                | 可理解并可追溯的  | 他人能够跟随研究步骤，理解结论如何形成。                | 形容词                                             |
 | transparent                    | 透明的       | 清楚公开研究的前提、方法、资料和论证过程。               | 形容词                                             |
-| wiederholbar                   | 可重复的      | 在说明的条件下能够再次开展研究或观测；讲义也提示需考虑具体研究情境。  | 形容词                                             |
-| die Beschreibung               | 描述        | 说明观察到什么、在哪里及具有什么特征，区别于解释原因。         | 复数：Beschreibungen                               |
-| die Erklärung                  | 解释        | 说明现象为什么发生，并提出现象间联系的机制或原因。           | 复数：Erklärungen                                  |
 | die Theoriebildung             | 理论建构      | 把概念、关系和解释组织成有联系的理论体系。               | 复数：Theoriebildungen                             |
 | die Gestaltung                 | 干预与塑造     | 运用知识选择行动并改变现实，同时考虑可能的后果。            | 复数：Gestaltungen                                 |
 | die Wahrnehmung                | 知觉        | 人对感觉信息的组织和理解，受注意力、经验和解释框架影响。        | 复数：Wahrnehmungen                                |
@@ -113,7 +104,6 @@
 | theorieabhängig                | 依赖理论的     | 观察时关注什么、如何分类和解释，受到理论前提影响。           | 形容词                                             |
 | die doppelte Kontingenz        | 双重偶联性     | 互动双方都可采取不同选择，并根据对方的可能反应调整自身行动。      | 通常无复数                                           |
 | die unaufmerksame Blindheit    | 无意视盲      | 注意力集中在特定任务时，没有意识到视野中其他明显对象。         | 通常无复数；英语：inattentional blindness                |
-| die Aufmerksamkeit             | 注意力       | 对某些信息的集中处理，会影响哪些现象被察觉。              | 此义通常无复数                                         |
 | das Begriffswort               | 概念词       | 承载或表达某个概念的词语，要与概念的意义区分。             | 复数：Begriffswörter                               |
 | das Zeichen                    | 符号        | 代表或指涉某种意义或现象的表达形式，如文字。              | 复数：Zeichen                                      |
 | der Interpretationsrahmen      | 解释框架      | 理解概念和现象时所依赖的背景、规则与学科语境。             | 复数：Interpretationsrahmen                        |
@@ -124,8 +114,6 @@
 | der deskriptive Begriff        | 描述性概念     | 用于描述现实对象、特征或方面的概念。                  | 复数：deskriptive Begriffe                         |
 | der operationale Begriff       | 操作性概念     | 与可直接经验或测量的属性相联系的概念。                 | 复数：operationale Begriffe                        |
 | der theoretische Begriff       | 理论概念      | 描述抽象或复杂、无法直接观察的内容，需要通过其他概念连接经验。     | 复数：theoretische Begriffe                        |
-| die Wirklichkeit               | 现实        | 研究试图观察、描述和解释的实际世界。                  | 此义通常无复数                                         |
-| das Merkmal                    | 特征        | 用于描述、区分或分类对象的属性。                    | 复数：Merkmale                                     |
 | der Sachverhalt                | 事态或事实关系   | 陈述所涉及的具体情况、对象关系或事件状态。               | 复数：Sachverhalte                                 |
 | der logische Satz              | 逻辑命题      | 依据前提和推理规则建立关系的陈述，形式有效不保证前提符合现实。     | 复数：logische Sätze                               |
 | der empirische Satz            | 经验命题      | 与观察经验相关、需要借助经验资料讨论的陈述。              | 复数：empirische Sätze                             |
@@ -147,16 +135,12 @@
 | die Ursache                    | 原因        | 对某结果的发生具有因果作用的事件或条件，不能仅凭同时出现认定。     | 复数：Ursachen                                     |
 | die Wirkung                    | 结果或作用效果   | 某因素或行动所引起的变化。                       | 复数：Wirkungen                                    |
 | die Ursache-Wirkungs-Beziehung | 因果关系      | 一个事件或条件如何影响另一个事件发生的关系。              | 复数：Ursache-Wirkungs-Beziehungen                 |
-| das Ereignis                   | 事件        | 在一定时间和情境下发生、可被描述或解释的事情。             | 复数：Ereignisse                                   |
-| die Vermutung                  | 推测        | 有待检验的初步判断，提出时应说明其依据。                | 复数：Vermutungen                                  |
 | das Erfahrungswissen           | 经验知识      | 从观察和既有经历中获得的认识，理论解释可进一步揭示其背后的关系。    | 通常无复数                                           |
 | die Kausalität                 | 因果性       | 原因与结果之间的作用关系，区别于统计相关或巧合。            | 通常无复数                                           |
-| die Korrelation                | 相关性       | 变量共同变化的统计关系，本身不能证明谁导致谁。             | 复数：Korrelationen                                |
 | die Koinzidenz                 | 巧合或同时发生   | 事件相伴出现的现象，可能没有直接因果联系。               | 复数：Koinzidenzen                                 |
 | die Kontrafaktizität           | 反事实性      | 通过设想某事件未发生时结果会怎样，讨论其是否具有因果作用。       | 通常无复数                                           |
 | die Regularität                | 规律性       | 事件反复以某种稳定方式出现，讲义以此讨论一种因果判断思路。       | 复数：Regularitäten                                |
 | die Probabilität               | 概率性       | 从事件发生概率的变化讨论联系，不能据此自动排除其他解释。        | 通常无复数                                           |
-| die Wahrscheinlichkeit         | 概率        | 描述某事件在给定条件下发生的可能程度。                 | 复数：Wahrscheinlichkeiten                         |
 | die hinreichende Bedingung     | 充分条件      | 只要该条件成立，所讨论的结果就必然成立。                | 复数：hinreichende Bedingungen                     |
 | die notwendige Bedingung       | 必要条件      | 结果成立时必须具备的条件，但单有它不保证结果成立。           | 复数：notwendige Bedingungen                       |
 | die Industrialisierung         | 工业化       | 工业生产及相关社会经济结构发展的过程，在讲义中作为共同影响因素的例子。 | 通常无复数                                           |
@@ -170,7 +154,6 @@
 | die Straßenkapazität           | 道路通行能力    | 道路能够承载的交通能力，增加它不保证拥堵长期减少。           | 复数：Straßenkapazitäten                           |
 | die Verkehrsnachfrage          | 交通需求      | 人们对出行和道路使用的需求，会对道路条件变化作出反应。         | 通常无复数                                           |
 | der Stau                       | 交通拥堵      | 车辆通行受阻、速度明显降低的状态。                   | 复数：Staus                                        |
-| die Praxis                     | 实践        | 知识被运用或行动实际开展的领域，与理论的不同含义相对照。        | 此义通常无复数                                         |
 | der logische Empirismus        | 逻辑经验主义    | 重视逻辑分析与经验依据的科学哲学取向，讲义用它说明较严格的理论概念。  | 通常无复数                                           |
 | die Prognostik                 | 预测研究      | 运用既有认识和理论估计未来发展的研究。                 | 通常无复数                                           |
 | die Randbedingung              | 边界条件或背景条件 | 限定理论应用情境的条件，影响解释和预测能否成立。            | 复数：Randbedingungen                              |
@@ -209,3 +192,132 @@
 | begründen                      | 论证依据      | 给出支持判断、选择或解释的理由。                    | 动词；begründet – begründete – hat begründet       |
 | überprüfen                     | 检验        | 依据明确标准审查陈述、证据或方法。                   | 动词；überprüft – überprüfte – hat überprüft       |
 | korrigieren                    | 修正        | 在发现问题后调整错误的判断、方法或结果。                | 动词；korrigiert – korrigierte – hat korrigiert    |
+
+# 经济地理
+
+| 单词                                   | 中文        | 解释                                           | 词形与用法                                                                  |
+| ------------------------------------ | --------- | -------------------------------------------- | ---------------------------------------------------------------------- |
+| der Standort                         | 区位或所在地    | 企业或经济活动所在的位置，可指具体物业、城市地段、地区等不同尺度。            | 复数：Standorte                                                           |
+| die Standortwahl                     | 区位选择      | 企业在不同地点之间决定在哪里开展活动的过程，现实中不一定经过全面比较。          | 通常无复数                                                                  |
+| die regionale Entwicklung            | 区域发展      | 地区经济和社会状况随时间变化的过程，各地区可能有不同发展路径。              | 复数：regionale Entwicklungen                                             |
+| die globale Vernetzung               | 全球网络联系    | 企业、个人和地区通过国际经济关系相互连接。                        | 通常无复数                                                                  |
+| die Betriebsstätte                   | 经营场所      | 企业实际开展生产或服务活动的具体地点。                          | 复数：Betriebsstätten                                                     |
+| die Ansiedlung                       | 企业落地或设立   | 企业在某地建立生产或经营活动的过程。                           | 复数：Ansiedlungen                                                        |
+| die Textilindustrie                  | 纺织业       | 从事纺织材料及产品生产的产业，讲义以其跨国区位变化为例。                 | 通常无复数                                                                  |
+| die Bekleidungsindustrie             | 服装业       | 从事服装生产的产业，区位受到劳动力和市场联系等影响。                   | 通常无复数                                                                  |
+| die Branche                          | 行业        | 经营相同或相关产品、服务的一类企业。                           | 复数：Branchen                                                            |
+| der Umsatz                           | 营业额       | 销售商品或提供服务取得的收入总额，不能等同于利润。                    | 复数：Umsätze                                                             |
+| die Wirtschaftsleistung              | 经济产出      | 一定地区在一定时期内的经济生产成果，可用国内生产总值等衡量。               | 复数：Wirtschaftsleistungen                                               |
+| das Weltprodukt                      | 世界总产出     | 世界各经济体经济产出的总量，用于讨论全球生产的空间集中。                 | 复数：Weltprodukte                                                        |
+| die Immobilie                        | 不动产       | 土地及其建筑物，企业选择具体所在地时需要考虑的空间载体。                 | 复数：Immobilien                                                          |
+| die Stadtlage                        | 城市内区位     | 企业在城市内部所处的地段，区别于选择哪座城市。                      | 复数：Stadtlagen                                                          |
+| die Gemeinde                         | 市镇或基层行政区  | 企业选址可能涉及的一种地方行政空间单元。                         | 复数：Gemeinden                                                           |
+| die Maßstabsebene                    | 尺度层级      | 分析所采用的空间层次，如物业、城市、地区或全球。                     | 复数：Maßstabsebenen                                                      |
+| die Standorteigenschaft              | 区位属性      | 某地具有的条件；只有对特定企业形成具有空间局限性的成本或收益优势时，才成为经济区位因素。 | 复数：Standorteigenschaften                                               |
+| der harte Standortfaktor             | 硬性区位因素    | 直接影响企业成本或收益、通常较易量化的区位条件。                     | 复数：harte Standortfaktoren                                              |
+| der weiche Standortfaktor            | 软性区位因素    | 通过较间接途径影响企业活动、通常较难直接量化的区位条件。                 | 复数：weiche Standortfaktoren                                             |
+| der Kostenvorteil                    | 成本优势      | 在其他条件相近时，以较低成本开展某项活动的优势。                     | 复数：Kostenvorteile                                                      |
+| der Ertragsvorteil                   | 收益优势      | 某地条件使企业更容易取得收益的优势。                           | 复数：Ertragsvorteile                                                     |
+| der Standortvorteil                  | 区位优势      | 某地条件为特定经济活动带来的有利影响。                          | 复数：Standortvorteile                                                    |
+| die Hochebene                        | 高原        | 地势较高、表面较平缓的地形，讲义以波哥大高原说明自然条件的经济意义。           | 复数：Hochebenen                                                          |
+| der Blumenanbau                      | 花卉种植      | 花卉的农业生产活动，讲义用于说明光照、气温和交通联系的共同作用。             | 通常无复数                                                                  |
+| der Export                           | 出口        | 把商品或服务销售到本国之外的市场。                            | 复数：Exporte                                                             |
+| der Zielmarkt                        | 目标市场      | 企业产品计划销售或实际进入的市场。                            | 复数：Zielmärkte                                                          |
+| die Windenergie                      | 风能        | 风所具有、可用于发电等用途的能量，其利用具有空间差异。                  | 通常无复数                                                                  |
+| die Küstenlandschaft                 | 海岸景观      | 沿海地区的自然与人类活动景观，讲义以其说明风能利用的空间分布。              | 复数：Küstenlandschaften                                                  |
+| die Standorttheorie                  | 区位理论      | 解释企业为何选择某些地点开展活动的理论。                         | 复数：Standorttheorien                                                    |
+| das Rohmaterial                      | 原材料       | 投入生产过程、用于加工成产品的物质。                           | 复数：Rohmaterialien                                                      |
+| der Rohstoff                         | 原料或资源性投入  | 为生产提供基础材料的资源，区位理论关注其来源位置和运输。                 | 复数：Rohstoffe                                                           |
+| der Absatzmarkt                      | 销售市场      | 企业产品出售并实现销售收入的市场。                            | 复数：Absatzmärkte                                                        |
+| die Transportkosten                  | 运输成本      | 把投入品或产品从一地运到另一地所需的成本。                        | 复数词                                                                    |
+| die Frachtrate                       | 运价        | 货物运输按重量、距离等计价的费率。                            | 复数：Frachtraten                                                         |
+| die Arbeitskraft                     | 劳动力       | 能够参与生产和服务活动的劳动能力，或提供这种能力的人。                  | 复数：Arbeitskräfte                                                       |
+| die Lohnhöhe                         | 工资水平      | 劳动报酬的高低，是企业成本和区域差异分析中的变量。                    | 复数：Lohnhöhen                                                           |
+| der tonnenkilometrische Minimalpunkt | 吨公里最小点    | 韦伯区位模型中，使原材料运入和产品运出的运输负担最小的位置。               | 复数：tonnenkilometrische Minimalpunkte                                   |
+| der Produktionsbetrieb               | 生产企业或工厂   | 实际把投入加工为产品的生产单位。                             | 复数：Produktionsbetriebe                                                 |
+| das Reingewichtsprodukt              | 纯重产品      | 加工过程中原材料重量基本保留在最终产品中的产品。                     | 复数：Reingewichtsprodukte                                                |
+| das Gewichtsverlustprodukt           | 失重产品      | 加工后产品重量小于相关原材料投入重量的产品。                       | 复数：Gewichtsverlustprodukte                                             |
+| marktorientiert                      | 市场导向的     | 在本讲区位语境中，倾向靠近产品销售市场安排生产。                     | 形容词                                                                    |
+| rohstofforientiert                   | 原料导向的     | 在本讲区位语境中，倾向靠近原材料来源安排生产。                      | 形容词                                                                    |
+| homogen                              | 同质的       | 模型假设中，不同地点或对象的有关条件一致。                        | 形容词                                                                    |
+| immobil                              | 不流动的      | 不能或不发生空间移动，讲义用于描述韦伯模型中的劳动力条件。                | 形容词                                                                    |
+| der Produktionswert                  | 生产价值      | 一定生产活动所形成的产出价值，可用来比较运输成本所占比例。                | 复数：Produktionswerte                                                    |
+| der Ressourcenzugang                 | 资源获取条件    | 企业能够接触并使用所需资源的条件，可能比单纯缩短距离更重要。               | 通常无复数；对应讲义 Zugang zu Ressourcen                                        |
+| der Standortfaktorenkatalog          | 区位因素目录    | 列举潜在区位条件的清单，其结果受因素可比性和分析尺度影响。                | 复数：Standortfaktorenkataloge                                            |
+| der Standortanspruch                 | 区位需求      | 企业对所在地条件提出的要求，需要判断是否真正影响其经营。                 | 复数：Standortansprüche                                                   |
+| der Standortvergleich                | 区位比较      | 按一定标准比较候选地点的过程。                              | 复数：Standortvergleiche                                                  |
+| der Gründer                          | 创办人       | 建立企业的人，其居住和生活联系可能影响企业落地位置。                   | 复数：Gründer；阴性：die Gründerin                                            |
+| der Lebensmittelpunkt                | 生活重心所在地   | 个人主要生活及社会联系所在的位置，讲义用于解释企业选址。                 | 复数：Lebensmittelpunkte                                                  |
+| die Standortverlagerung              | 企业迁址      | 企业把全部或部分活动转移到另一个地点。                          | 复数：Standortverlagerungen                                               |
+| die Standortpersistenz               | 区位持续性     | 企业长期停留在既有地点、不轻易迁移的现象。                        | 通常无复数                                                                  |
+| die versunkenen Kosten               | 沉没成本      | 已经发生且无法因改变后续选择而收回的成本。                        | 复数词                                                                    |
+| der Platzmangel                      | 场地不足      | 现有经营空间无法满足需求，可能促使企业迁址。                       | 通常无复数                                                                  |
+| die Mobilitätsrate                   | 迁移率       | 一定时期内发生迁移的企业占所考察企业的比例。                       | 复数：Mobilitätsraten                                                     |
+| die Nutzwertanalyse                  | 效用评价法     | 根据多个标准及权重比较候选方案的综合评价方法。                      | 复数：Nutzwertanalysen                                                    |
+| die Betriebskostenanalyse            | 经营成本分析    | 估算并比较不同地点或方案的日常经营成本。                         | 复数：Betriebskostenanalysen                                              |
+| die Investitionsanalyse              | 投资分析      | 评估建设或迁入某地所需投入及相关经济效果。                        | 复数：Investitionsanalysen                                                |
+| der Entscheidungsträger              | 决策者       | 具有选择方案或批准行动权限的人或机构。                          | 复数：Entscheidungsträger                                                 |
+| das Verhandlungsgeschick             | 谈判技巧      | 在地点筛选和条件协商中争取有利条件的能力。                        | 通常无复数                                                                  |
+| die Standortagentur                  | 投资促进机构    | 代表地方提供选址信息、争取企业落地的机构。                        | 复数：Standortagenturen                                                   |
+| der Verhandlungsdruck                | 谈判压力      | 在候选地点竞争中，促使另一方改善条件的压力。                       | 通常无复数                                                                  |
+| die Faktorausstattung                | 要素禀赋      | 某地拥有的劳动力、资本、设施及其他生产条件。                       | 复数：Faktorausstattungen                                                 |
+| die Beihilfe                         | 补助        | 为支持特定活动提供的资金或其他经济帮助。                         | 复数：Beihilfen                                                           |
+| die Investition                      | 投资        | 为未来生产、经营或收益投入资金和资源的行为。                       | 复数：Investitionen                                                       |
+| der Agglomerationsvorteil            | 集聚优势      | 生产或经济活动空间集中而带来的成本降低、联系便利等好处。                 | 复数：Agglomerationsvorteile                                              |
+| das geographische Cluster            | 地理集群      | 相关企业在空间上的集中；狭义上还要求供应、知识等功能联系。                | 复数：geographische Cluster                                               |
+| die Standortgemeinschaft             | 区位共同体     | 在相近地点集中开展相关活动的一组企业。                          | 复数：Standortgemeinschaften                                              |
+| die Ballung                          | 集中或密集分布   | 大量企业或活动聚集在有限空间的状态。                           | 复数：Ballungen                                                           |
+| die Lieferverflechtung               | 供应联系      | 企业之间通过原材料、零部件或产品供给形成的关系。                     | 复数：Lieferverflechtungen                                                |
+| der Wissensaustausch                 | 知识交流      | 主体之间传递、讨论和共同发展知识的过程。                         | 通常无复数                                                                  |
+| der interne Skalenertrag             | 内部规模收益    | 企业自身生产规模变化时产出的相应变化；递增时可形成规模经济。               | 复数：interne Skalenerträge；讲义使用复数                                        |
+| der externe Effekt                   | 外部效应      | 某主体的行为对其他主体产生、但未由相应市场补偿完全反映的影响。              | 复数：externe Effekte                                                     |
+| der Lokalisationsvorteil             | 同行业集聚优势   | 同一或相关行业企业在同一地区集中带来的外部好处。                     | 复数：Lokalisationsvorteile                                               |
+| der Urbanisationsvorteil             | 城市化集聚优势   | 多种行业和活动在城市共同集中带来的外部好处。                       | 复数：Urbanisationsvorteile                                               |
+| der Industriedistrikt                | 产业区       | 众多相互联系的企业在地方集中并形成生产分工的地区。                    | 复数：Industriedistrikte                                                  |
+| das lokale Produktionssystem         | 地方生产系统    | 地方企业、劳动者及相关机构通过分工联系形成的生产整体。                  | 复数：lokale Produktionssysteme                                           |
+| die externe Ersparnis                | 外部经济收益    | 企业从外部集聚和共同条件中获得的成本节约。                        | 复数：externe Ersparnisse；讲义常用复数                                          |
+| die Transaktionskosten               | 交易成本      | 寻找交易对象、协商、监督和执行交换所需要的成本。                     | 复数词                                                                    |
+| die Infrastruktur                    | 基础设施      | 支持生产、交通、通信等活动的共同设施与系统。                       | 复数：Infrastrukturen                                                     |
+| der Zuliefermarkt                    | 供应商市场     | 企业采购中间投入和相关服务的市场。                            | 复数：Zuliefermärkte                                                      |
+| die Verlässlichkeit                  | 可靠性       | 对合作行为和交易条件具有稳定预期的程度。                         | 通常无复数                                                                  |
+| die Erwartungsunsicherheit           | 预期不确定性    | 无法确定他人行动或未来交易结果的状态。                          | 复数：Erwartungsunsicherheiten                                            |
+| die soziale Institution              | 社会制度或规则   | 共同遵循并影响行为的规则和惯例，不仅指具体组织。                     | 复数：soziale Institutionen                                               |
+| die Sanktion                         | 制裁        | 对偏离规则的行为施加的后果，可帮助维持共同制度。                     | 复数：Sanktionen                                                          |
+| die Innovativität                    | 创新能力      | 产生、采用或重新组合新知识和做法的能力。                         | 通常无复数                                                                  |
+| der Wissensspillover                 | 知识溢出      | 知识超出原产生主体并被其他主体获得和使用的过程。                     | 复数：Wissensspillover                                                    |
+| die Innovation                       | 创新        | 形成并采用新的产品、过程或组织方式等变化。                        | 复数：Innovationen                                                        |
+| die Interaktion                      | 互动        | 主体之间相互影响、协调或学习的过程。                           | 复数：Interaktionen                                                       |
+| die Nachahmung                       | 模仿        | 通过观察他人的做法并加以采用来学习。                           | 复数：Nachahmungen                                                        |
+| die Synergie                         | 协同效应      | 不同主体或知识结合后产生的额外效果。                           | 复数：Synergien                                                           |
+| kooperativ                           | 合作性的      | 主体通过协作、交流或共同活动建立联系。                          | 形容词                                                                    |
+| kompetitiv                           | 竞争性的      | 主体通过竞争、比较和观察对方等方式相互影响。                       | 形容词                                                                    |
+| das Bruttoinlandsprodukt             | 国内生产总值    | 一定时期内一国或地区境内生产的最终产品和服务价值。                    | 复数：Bruttoinlandsprodukte；缩写：BIP                                        |
+| das BIP pro Kopf                     | 人均国内生产总值  | 国内生产总值除以人口数，不等于每个人实际获得的收入。                   | 词组；常用单位：货币金额/人                                                         |
+| die regionale Disparität             | 区域差异      | 地区之间在社会认为重要的特征上，相对于某一参照分布存在的差异。              | 复数：regionale Disparitäten；讲义常用复数                                       |
+| die Referenzverteilung               | 参照分布      | 用于判断差异大小的假定或选定比较基准。                          | 复数：Referenzverteilungen                                                |
+| die Lebensverhältnisse               | 生活状况      | 人们生活所处的经济与社会条件，可用于评价区域差异。                    | 复数词                                                                    |
+| der Zusammenhalt                     | 凝聚力       | 不同地区或群体维持联系与共同发展的程度。                         | 通常无复数                                                                  |
+| das Zentrum                          | 中心地区      | 在区域体系中集中经济活动、资源或控制功能的地区。                     | 复数：Zentren                                                             |
+| die Peripherie                       | 边缘地区      | 在与中心的关系中位置、资源或发展机会相对不利的地区。                   | 复数：Peripherien                                                         |
+| der Indikator                        | 指标        | 用于观察和比较复杂现象的具体量，如人均产出或失业率。                   | 复数：Indikatoren                                                         |
+| die Arbeitslosenquote                | 失业率       | 失业人数占所采用劳动人口口径的比例，用于比较地区劳动力市场状况。             | 复数：Arbeitslosenquoten                                                  |
+| der Lohn                             | 工资        | 劳动者提供劳动而获得的报酬，讲义将其作为区域差异指标。                  | 复数：Löhne                                                               |
+| das Gehalt                           | 薪酬        | 通常按固定周期支付的劳动报酬。                              | 复数：Gehälter                                                            |
+| der Gini-Koeffizient                 | 基尼系数      | 衡量分布不平等程度的指标，数值越高通常表示越不平等。                   | 复数：Gini-Koeffizienten                                                  |
+| der Variationskoeffizient            | 变异系数      | 标准差与均值之比，用于比较分布的相对离散程度。                      | 复数：Variationskoeffizienten                                             |
+| die Konvergenz                       | 收敛        | 本讲指不同地区的发展水平差距趋于缩小的过程。                       | 通常无复数                                                                  |
+| die regionale Divergenz              | 区域分化      | 不同地区的发展水平差距扩大；应与几何语境中的线条发散区分。                | 通常无复数；对应讲义区域发展的 Divergenz                                              |
+| die regionale Entwicklungstheorie    | 区域发展理论    | 解释地区经济增长机制及地区间发展差异的理论。                       | 复数：regionale Entwicklungstheorien                                      |
+| die neoklassische Wachstumstheorie   | 新古典增长理论   | 讲义讨论的收敛解释：在相应模型条件下，要素流动和交换可推动差距缩小。           | 复数：neoklassische Wachstumstheorien                                     |
+| die Faktormobilität                  | 要素流动性     | 劳动、资本等生产要素在地区之间移动的能力。                        | 通常无复数                                                                  |
+| das Kapital                          | 资本        | 可投入生产和经营的资金或生产性资源，是区域流动要素之一。                 | 复数：Kapitalien；宏观经济语境通常单数                                               |
+| der Handel                           | 贸易        | 主体之间交换商品和服务的经济活动，能够联系不同地区。                   | 此义通常无复数                                                                |
+| die Polarisationstheorie             | 极化理论      | 强调累积过程使增长集中于部分地区、并可能扩大区域差距的理论。               | 复数：Polarisationstheorien                                               |
+| der kumulative Entwicklungsprozess   | 累积发展过程    | 先前的发展优势通过后续变化被持续强化的过程。                       | 复数：kumulative Entwicklungsprozesse                                     |
+| der Entzugseffekt                    | 回流或要素抽离效应 | 劳动力、资本等被增长中心吸引，使外围地区失去发展资源的影响。               | 复数：Entzugseffekte                                                      |
+| der Wachstumspol                     | 增长极       | 经济活动和增长动力较集中、能吸引资源的中心。                       | 复数：Wachstumspole                                                       |
+| das Entwicklungsniveau               | 发展水平      | 一定时期内地区经济社会发展所达到的状态。                         | 复数：Entwicklungsniveaus                                                 |
+| die Entwicklungsungleichgewichte     | 发展不均衡     | 不同地区的发展状态和机会不一致的情况。                          | 复数词；单数：das Entwicklungsungleichgewicht                                 |
+| sich ansiedeln                       | 落地设立      | 企业在某地点建立经营或生产活动。                             | 可分反身动词；siedelt sich an – siedelte sich an – hat sich angesiedelt       |
+| erwirtschaften                       | 创造经济产出    | 通过经济活动获得收入、产出或其他经济成果。                        | 动词；erwirtschaftet – erwirtschaftete – hat erwirtschaftet               |
+| sich spezialisieren                  | 专业化       | 把活动集中于某类产品、服务或生产环节。                          | 反身动词；spezialisiert sich – spezialisierte sich – hat sich spezialisiert |
